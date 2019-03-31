@@ -1,3 +1,11 @@
 <resources>
+
     <string name="app_name">User Profile</string>
+
+    <!-- Main layout Strings Start. -->
+    <string name="main_name">David Auza</string>
+    <string name="main_birthday">December 22, 1989</string>
+    <string name="main_country">Colombia</string>
+    <!-- Main layout Strings End. -->
+
 </resources>
