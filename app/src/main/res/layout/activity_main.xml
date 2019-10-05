@@ -8,7 +8,7 @@
 
     <android.support.constraint.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="wrap_content">
 
         <ImageView
             android:id="@+id/profile_picture"
@@ -26,7 +26,7 @@
         <TextView
             android:id="@+id/name"
             style="@style/TextViews"
-            android:text="David Auza"
+            android:text="@string/main_name"
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintRight_toRightOf="parent"
             app:layout_constraintTop_toBottomOf="@id/profile_picture" />
